@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../SwitchWorld/.idea/SwichWorld.iml" filepath="$PROJECT_DIR$/../SwitchWorld/.idea/SwichWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Switch_World.iml" filepath="$PROJECT_DIR$/.idea/Switch_World.iml" />
     </modules>
   </component>
 </project>
